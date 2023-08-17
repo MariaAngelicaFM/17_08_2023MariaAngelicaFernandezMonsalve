@@ -1,0 +1,53 @@
+   37  mkdir Clase8
+   38  ls
+   39  cd Clase8
+   40  ls
+   41  cd ..
+   42  mv Clase8 17_08_2023MariaAngelicaFernandezMonsalve1
+   43  ls
+   44  cd 17_08_2023MariaAngelicaFernandezMonsalve1/
+   45  git init
+   46  touch main.js
+   47  ls
+   48  touch index.html
+   49  ls
+   50  git add .
+   51  git status
+   52  git commit -m "commit 01 de MariaAngelicaFernandezMonsalve"
+   53  git status
+   54  git remote add origin https://github.com/MariaAngelicaFM/17_08_2023MariaAngelicaFernandezMonsalve.git
+   55  git push origin main
+   56  git branch feature
+   57  git checkout feature
+   58  mkdir Hardware
+   59  mkdir Software
+   60  mkdir SeguridadInformatica
+   61  ls
+   62  cd Hardware
+   63  touch resumen.txt
+   64  ls
+   65  cd ..
+   66  cd Software
+   67  touch resumen.txt
+   68  cd ..
+   69  cd SeguridadInformatica
+   70  touch resumen.txt
+   71  cd..
+   72  cd ..
+   73  git status
+   74  git add .
+   75  git status
+   76  git commit -m "commit 02 de MariaAngelicaFernandezMonsalve"
+   77  git push origin feature
+   78  git checkout main
+   79  ls
+   80  mv main.js resumenHardware.txt
+   81  ls
+   82  mv index.html resumenSoftware.txt
+   83  apt-get install nano
+   84  nano -version
+   85  nano --version
+   86  nano resumenSoftware.txt
+   87  nano resumenHardware.txt
+   88  touch comandos.txt
+   89  history

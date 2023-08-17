@@ -1,0 +1,5 @@
+Aplicaciones de dibujo: GIMP, Krita, MediBang Paint, y Affinity Photo.
+
+Sistemas operativos: Windows, GNU/Linux, macOS, Android y iOS.
+
+Paquetes de ofimática: Microsoft Office, Google Docs Editors, iWork, OpenOffice y LibreOffice.
